@@ -14,4 +14,4 @@ a { 1, 3}
 
 c { 1, 3 }
 
-![alt text](https://drive.google.com/file/d/1uPi7iK_u3rGAV_r5kKK2ploj5mV47hu1/view?usp=sharing)
+![graph](../assets/graph.png?raw=true)
